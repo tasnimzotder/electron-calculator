@@ -4,9 +4,19 @@ body {
 }
 
 .display {
-    background: rgba(0, 10, 10, 0.733);
+    background: rgba(1, 85, 85, 0.733);
     height: 12rem;
     width: 100%;
+    color: #fff;
+    text-align: right;
+}
+
+.display p {
+    margin: 0;
+    text-align: right;
+    margin-right: 1rem;
+    padding-top: calc(12rem / 2 - 1.8rem);
+    font-size: 300%;
 }
 
 .btns {
