@@ -9,6 +9,8 @@ body {
     width: 100%;
     color: #fff;
     text-align: right;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
 }
 
 .display p {
@@ -43,4 +45,10 @@ body {
     align-items: center;
     font-size: 160%;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.rw :hover {
+    background: rgb(0, 160, 139);
+    /* color: rgb(208, 255, 0);
+    font-weight: 600; */
 }
