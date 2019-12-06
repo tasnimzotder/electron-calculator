@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.display {
+    background: rgba(0, 10, 10, 0.733);
+    height: 12rem;
+    width: 100%;
+}
+
+.btns {
+    /* background: rgb(1, 204, 204); */
+    padding: 0.4rem;
+}
+
+.btns div {
+    color: white;
+    background: rgba(216, 67, 67, 0.87);
+    width: 100%;
+    border: 0.1rem solid white;
+}
+
+.rw {
+    text-align: center;
+    display: flex;
+    height: 5rem;
+}
+
+.rw div {
+    /* background: red; */
+    /* margin: 0.1rem; */
+    align-items: center;
+    font-size: 160%;
+    font-family: 'Courier New', Courier, monospace;
+}
